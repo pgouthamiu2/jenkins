@@ -1,4 +1,4 @@
-# jenkins-maven-project
+# jenkins-maven-projects
 ```texttwar
 Building Jenkins Pipelines on Amazon Linux 2 AWS EC2 Instance
 ```
